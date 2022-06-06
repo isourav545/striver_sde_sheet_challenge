@@ -1,1 +1,1 @@
-# striver_sde_sheet_challenge
+# Strivers SDE Sheet Challenge
